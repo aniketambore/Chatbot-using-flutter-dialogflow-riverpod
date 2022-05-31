@@ -72,7 +72,7 @@ class MainPage extends ConsumerWidget {
         BotModel(message: "Hello Sir !", data: 0),
       );
       _botMessages.add(
-        BotModel(message: "What's your name?", data: 1),
+        BotModel(message: "What's up bot", data: 1),
       );
     }
     */

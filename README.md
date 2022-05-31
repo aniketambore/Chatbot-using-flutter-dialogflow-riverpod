@@ -1,4 +1,4 @@
-# Developing a Chatbot Application using Flutter and Dialogflow with Riverpod for Statemanagement !
+# How to develop a Chatbot using Flutter and Dialogflow with Riverpod for State Management !
 
 ![Cover Image](README_Content/FCC_Chatbot_Article_Cover_Image.png)
 
